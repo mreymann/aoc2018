@@ -1,2 +1,2 @@
-# Advent of Code 2017 :santa:
-Advent of Code 2017 solutions in a simpelton's PHP
+# Advent of Code 2018 :santa:
+Advent of Code 2018 solutions in a simpelton's PHP
